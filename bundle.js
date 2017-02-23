@@ -71,9 +71,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-const var1 = 'var1';
-/* unused harmony export var1 */
-
+/* unused harmony default export */ var _unused_webpack_default_export = 'var1';
 
 
 /***/ }),
