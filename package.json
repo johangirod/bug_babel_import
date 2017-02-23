@@ -4,13 +4,11 @@
   "description": "",
   "author": "Johan Girod <johangirod@gmail.com>",
   "keywords": [],
-  "dependencies": {
-    "react": "^15.4.2",
-    "vitaminjs": "^1.0.0"
-  },
+  "dependencies": {},
   "scripts": {
-    "start": "vitamin start",
-    "build": "vitamin build",
-    "serve": "vitamin serve"
+    "build": "webpack ./index.js bundle.js"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
   }
 }
